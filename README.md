@@ -34,3 +34,8 @@ This repository houses the analysis projects I completed for the Data Analysis w
 ![box_plot](https://github.com/user-attachments/assets/e2798991-ad14-4a7c-b9df-84aba7f7063c)
 
 **5. Sea Level Predictor**
+
+* Goal: Analyze a dataset of the global average sea level change since 1880, and use the data to predict the sea level change through year 2050.
+* Python script: sea_level_predictor.py
+* Scatter plot with regression line (sea_level_plot.png): Plots sea level values from 1880 to 2013, including a red line of best fit which predicts sea levels up through the year 2050. A pink line of regression predicts future sea levels to the year 2050, but only considers data from the years 2000-2013. 
+![sea_level_plot](https://github.com/user-attachments/assets/77e46f79-b3ed-4366-aaad-4a81a692279a)
